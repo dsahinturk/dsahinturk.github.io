@@ -1,0 +1,11 @@
+.coffee-detail {
+    + .coffee-detail {
+        margin-top: 40px;
+    }
+
+    opacity: 0.8;
+
+    &-ingredients {
+        font-size: 14px;
+    }
+}
